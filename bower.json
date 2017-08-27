@@ -8,7 +8,7 @@
 	"description"	: "China Regions Json Data",
 	"main"		:
 	[
-		"dechinaregions.js"
+		"dechinaregions.js",
 		"dechinaregions.json"
 	],
 	"keywords"	:
