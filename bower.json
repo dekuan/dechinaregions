@@ -25,6 +25,8 @@
 		"tests",
 		"src",
 		"tools",
+		"maker",
+		"build.sh",
 		"composer.json",
 		"karma.conf.js",
 		"mocha.opts",
