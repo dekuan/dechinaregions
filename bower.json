@@ -1,0 +1,36 @@
+{
+	"name"		: "dechinaregions",
+	"homepage"	: "http://www.dekuan.org/",
+	"authors"	:
+	[
+		"liuqixing <liuqixing@dekuan.org>"
+	],
+	"description"	: "China Regions Json Data",
+	"main"		:
+	[
+		"dechinaregions.js"
+		"dechinaregions.json"
+	],
+	"keywords"	:
+	[
+		"China Regions"
+	],
+	"license": "MIT",
+	"ignore":
+	[
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests",
+		"src",
+		"tools",
+		"composer.json",
+		"karma.conf.js",
+		"mocha.opts",
+		"package.json"
+	],
+	"dependencies":
+	{
+	}
+}
